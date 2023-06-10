@@ -27,9 +27,9 @@
 
 다음은 커밋 메시지 작성의 예시입니다.
 
-feat: Add user registration feature
-fix: Fix null pointer exception in API endpoint
-docs: Update project documentation
+- feat: Add user registration feature
+- fix: Fix null pointer exception in API endpoint
+- docs: Update project documentation
 
 ## 추가적인 가이드라인
 
