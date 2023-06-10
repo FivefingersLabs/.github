@@ -26,6 +26,7 @@
 ## 예시
 
 다음은 커밋 메시지 작성의 예시입니다.
+
 feat: Add user registration feature
 fix: Fix null pointer exception in API endpoint
 docs: Update project documentation
@@ -34,5 +35,3 @@ docs: Update project documentation
 
 - 커밋은 가능한 작은 단위로 나누어 작성합니다. 각 커밋은 한 가지 주제에 집중해야 합니다.
 - 커밋 메시지는 명령문 형식으로 작성합니다.
-- 커밋 메시지는 영어로 작성하는 것을 권장합니다.
-- 커밋 메시지는 대문자로 시작하고 마침표를 사용하지 않습니다.
